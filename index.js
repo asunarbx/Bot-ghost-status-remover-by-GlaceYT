@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Wait for your ","Support"];
+const statusMessages = ["DM Me for AdminMail","I love Sword Art Online"];
 
 
 let currentIndex = 0;
